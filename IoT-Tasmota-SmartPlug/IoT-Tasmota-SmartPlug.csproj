@@ -81,7 +81,7 @@
   <ItemGroup>
     <Compile Include="Status.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tasmota_Smart_Plug_v2.0.cs" />
+    <Compile Include="Tasmota_Smart_Plug_v2.1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
